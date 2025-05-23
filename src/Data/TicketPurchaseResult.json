@@ -1,0 +1,10 @@
+{
+  "Status": "Success",
+  "Ticket": {
+    "Id": "f2accbc3-b3f7-499d-a5fb-533549a51333",
+    "EventId": "74d28746-9599-4784-b747-5441918f8d51",
+    "UserId": "25ab06bc-c10e-4047-86a4-b4383e366597",
+    "Status": "Purchased",
+    "ReservedAt": "2025-05-23T01:33:48.8734626Z"
+  }
+}

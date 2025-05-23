@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketmaster", "src\Ticketmaster.csproj", "{B90D401A-F846-9241-02B7-74B571C49B19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{39E072C0-209E-454D-BAB6-A10FDC4BB554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketmaster.Tests", "test\Ticketmaster.Tests.csproj", "{9934A3BF-E23D-1436-B4E0-267587250D8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B90D401A-F846-9241-02B7-74B571C49B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90D401A-F846-9241-02B7-74B571C49B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90D401A-F846-9241-02B7-74B571C49B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90D401A-F846-9241-02B7-74B571C49B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9934A3BF-E23D-1436-B4E0-267587250D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9934A3BF-E23D-1436-B4E0-267587250D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9934A3BF-E23D-1436-B4E0-267587250D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9934A3BF-E23D-1436-B4E0-267587250D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B90D401A-F846-9241-02B7-74B571C49B19} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{9934A3BF-E23D-1436-B4E0-267587250D8B} = {39E072C0-209E-454D-BAB6-A10FDC4BB554}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E09C334-9BA7-4A98-95E7-2C4AF1EC1628}
+	EndGlobalSection
+EndGlobal

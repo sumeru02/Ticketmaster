@@ -1,0 +1,24 @@
+[
+  {
+    "id": "00000000-0000-0000-0000-000000000001",
+    "name": "Rock Night 2025",
+    "venue": "Seattle Dome",
+    "date": "2025-06-15T20:00:00Z",
+    "capacity": 5000,
+    "ticketTypes": {
+      "General": 50.00,
+      "VIP": 120.00
+    }
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000002",
+    "name": "Jazz Evening",
+    "venue": "Portland Theater",
+    "date": "2025-07-10T19:30:00Z",
+    "capacity": 1500,
+    "ticketTypes": {
+      "Balcony": 40.00,
+      "Front Row": 80.00
+    }
+  }
+]

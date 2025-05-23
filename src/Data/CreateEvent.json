@@ -1,0 +1,10 @@
+{
+  "name": "Taylor Swift",
+  "venue": "Tacoma Dome Dome",
+  "date": "2025-06-15T20:00:00Z",
+  "capacity": 5000,
+  "ticketTypes": {
+    "General": 50.00,
+    "VIP": 120.00
+  }
+}
