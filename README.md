@@ -107,9 +107,9 @@ Response:
 {
   "Status": "Success",
   "Ticket": {
-    "Id": "f2accbc3-b3f7-499d-a5fb-533549a51333",
-    "EventId": "74d28746-9599-4784-b747-5441918f8d51",
-    "UserId": "25ab06bc-c10e-4047-86a4-b4383e366597",
+    "Id": "d7e0ee3d-612c-4158-bd32-b28ae26bec1f",
+    "EventId": "8160c611-e9f2-4e5a-9ee0-29fc6162f851",
+    "UserId": "7005d506-94b8-4e73-9d6d-ac3a385dc006",
     "Status": "Purchased",
     "ReservedAt": "2025-05-23T01:33:48.8734626Z"
   }
